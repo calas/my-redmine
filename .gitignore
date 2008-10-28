@@ -33,3 +33,7 @@ locale/*
 po/*.mo
 po/**/*.mo
 .dotest/*
+files/*
+config/email.yml
+public/plugin_assets/*
+public/javascripts/all.js
