@@ -1,0 +1,5 @@
+bulk_time_entry_title: Reportes de Tiempo
+label_bulk_time_entries: Reportes de Tiempo
+label_bulk_time_add_another: Añadir otro
+text_bulk_time_entry_permission: No tiene permisos para reportar tareas en ningún proyecto
+text_time_added_to_project: %s horas añadidas a su proyecto
