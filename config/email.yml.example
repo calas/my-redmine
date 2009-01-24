@@ -1,15 +1,16 @@
 # Outgoing email settings
 
-production_gmail:
-  delivery_method: :smtp
-  smtp_settings:
-    address: "smtp.gmail.com"
-    port: "25"
-    domain: "yourdomain.com"
-    authentication: :login
-    user_name: "user@email.com"
-    password: "password"
-    tls: true
+# Gmail Example
+# production_gmail:
+#   delivery_method: :smtp
+#   smtp_settings:
+#     address: smtp.gmail.com
+#     port: 25
+#     domain: yourdomain.com
+#     authentication: :login
+#     user_name: user@email.com
+#     password: password
+#     tls: true
 
 production:
   delivery_method: :smtp
@@ -20,7 +21,7 @@ production:
     authentication: :login
     user_name: redmine@example.net
     password: redmine
-  
+
 development:
   delivery_method: :smtp
   smtp_settings:

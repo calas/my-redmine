@@ -37,3 +37,6 @@ files/*
 config/email.yml
 public/plugin_assets/*
 public/javascripts/all.js
+Capfile
+config/deploy.rb
+config/deploy/*
